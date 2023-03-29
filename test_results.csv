@@ -1,0 +1,12 @@
+brownie,anvil,33.341
+brownie,development,49.4668
+brownie,hardhat,53.2669
+ape,ethereum:local:foundry,51.28499999999999
+ape,ethereum:local:ganache,68.22189999999998
+ape,ethereum:local:hardhat,67.83149999999999
+woke,anvil,3.5195
+woke,ganache,16.4673
+woke,hardhat,21.1761
+hardhat,anvil,11.6269
+hardhat,ganache,122.63580000000002
+hardhat,hardhat,18.314799999999998
